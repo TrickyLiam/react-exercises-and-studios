@@ -1,0 +1,5 @@
+.bookImg {
+    display: flex;
+    justify-content: center;
+    width: 25%;
+}
